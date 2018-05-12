@@ -1,9 +1,13 @@
 _repo: Johnny-Nut-and-the-Golden-Goose_47428
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Lynen, A. M.
     gutenberg_agent_id: '44309'
     url: http://www.gutenberg.org/2009/agents/44309
+covers:
+- cover_type: archival
+  image_path: 47428-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lang, Andrew
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '44308'
     url: http://www.gutenberg.org/2009/agents/44308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47428#Johnny-Nut-and-the-Golden-Goose
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
